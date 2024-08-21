@@ -80,9 +80,7 @@
     display: flex;
     margin: 30px;
     font-size: 20px;
-
 }
-
 .icon {
     display: flex;
     flex-direction: column;
@@ -99,9 +97,14 @@
     width: 255px;
     padding: 12px;
     margin: 30px 20px;
-    border: 2px solid gray;
+    border: 0.5px solid gray;
     border-radius: 15px;
     box-shadow: 1px 1px 15px 2px #b7b7b8;
+    cursor: pointer;
+}
+.shopping-card-container:hover {
+    box-shadow: 0px 0px 20px 2px gray;
+
 }
 .shopping-card-container1 {
     height: 280px;
@@ -358,11 +361,66 @@
 .bang-19{
     background-image: url("./../img/jwellery/bangle20.png");
 }
-
-
-
-
-
+.r-1{
+    background-image: url("./../img/jwellery/rakhi1.png");
+}
+.r-2{
+    background-image: url("./../img/jwellery/rakhi2.png");
+}
+.r-3{
+    background-image: url("./../img/jwellery/rakhi3.png");
+}
+.r-4{
+    background-image: url("./../img/jwellery/rakhi4.png");
+}
+.r-5{
+    background-image: url("./../img/jwellery/rakhi5.png");
+}
+.r-6{
+    background-image: url("./../img/jwellery/rakhi6.png");
+}
+.r-7{
+    background-image: url("./../img/jwellery/rakhi7.png");
+}
+.r-8{
+    background-image: url("./../img/jwellery/rAkhi8.png");
+}
+.r-9{
+    background-image: url("./../img/jwellery/rakhi9.png");
+}
+.r-10{
+    background-image: url("./../img/jwellery/rakhi10.png");
+}
+.r-11{
+    background-image: url("./../img/jwellery/rakhi11.png");
+}
+.r-12{
+    background-image: url("./../img/jwellery/rakhi12.png");
+}
+.r-13{
+    background-image: url("./../img/jwellery/rakhi13.png");
+}
+.r-14{
+    background-image: url("./../img/jwellery/rakhi14.png");
+}
+.r-15{
+    background-image: url("./../img/jwellery/rakhi15.png");
+}
+.r-16{
+    background-image: url("./../img/jwellery/rakhi16.png");
+}
+.r-17{
+    background-image: url("./../img/jwellery/rakhi17.png");
+}
+.r-18{
+    background-image: url("./../img/jwellery/rakhi18.png");
+}
+.r-19{
+    background-image: url("./../img/jwellery/rakhi19.png");
+}
+.r-20{
+    background-image: url("./../img/jwellery/rakhi20.png");
+}
 .wishlist-icon {
     height: 30px;
     width: 30px;
