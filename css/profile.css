@@ -44,3 +44,8 @@
     width: 200px;
 
 }
+.button{
+    justify-content: center;
+    display: flex;
+    color: black;
+}
