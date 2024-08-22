@@ -160,6 +160,7 @@
     border: 1px solid black;
     border-radius: 30px;
     box-shadow: 1px 1px 15px 2px rgb(171, 170, 170);
+    justify-content: space-evenly;
    
 }
 
@@ -254,6 +255,7 @@
     text-align: center;
     border: 1px solid rgb(180, 177, 177);
     border-radius: 30px;
+    justify-content: space-evenly;
 }
 
 .bg-banner-img{
@@ -452,57 +454,43 @@
     background-image: url("./../img/Perfume/bellavita7.jpg");
 }
 
+.img-32 {
+    background-image: url("./../img/Perfume/bellavita8.jpg");
+}
 
 
 /*** fireboltt **/
 
 .img-37 {
-    background-image: url("../img/apple-watch-1.jpg");
+    background-image: url("../img/Perfume/beardo1.jpg");
 }
 
 .img-38{
-    background-image: url("../img/apple-watch-2.jpg");
+    background-image: url("../img/Perfume/beardo2.jpg");
 }
 
 .img-39 {
-    background-image: url("../img/apple-watch-3.jpg");
+    background-image: url("../img/Perfume/beardo3.jpg");
 }
 
 .img-40 {
-    background-image: url("../img/apple-watch-4.jpg");
+    background-image: url("../img/Perfume/beardo4.jpg");
 }
 
 .img-41 {
-    background-image: url("../img/apple-watch-5.jpg");
+    background-image: url("../img/Perfume/beardo5.jpg");
 }
 
 .img-42 {
-    background-image: url("../img/apple-watch-6.jpg");
+    background-image: url("../img/Perfume/beardo6.jpg");
 }
 
 .img-43 {
-    background-image: url("../img/apple-watch-7.jpg");
+    background-image: url("../img/Perfume/beardo7.jpg");
 }
 
 .img-44 {
-    background-image: url("../img/apple-watch-8.jpg");
+    background-image: url("../img/Perfume/beardo8.jpg");
 }
-
-.img-45 {
-    background-image: url("../img/apple-watch-9.jpg");
-}
-
-.img-46 {
-    background-image: url("../img/apple-watch-10.jpg");
-}
-
-.img-47 {
-    background-image: url("../img/apple-watch-11.jpg");
-}
-
-.img-48 {
-    background-image: url("../img/apple-watch-12.jpg");
-}
-
 
 /** end **/
