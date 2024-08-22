@@ -124,13 +124,13 @@
     box-shadow: 1px 1px 15px 2px #b7b7b8;
     color: black;
 }
-.shopping-card-container1 :hover{
+.shopping-card-container1:hover{
     background-color:white;
     cursor: pointer;
     box-shadow:1px 1px 2px 3px black ;
 
 }
-.heading{
+.heading-4{
     text-align: center;
     margin: 20px;
 }
@@ -457,6 +457,7 @@
 
 .descrip {
     margin-left: 10px;
+    margin: 10px;
 }
 
 .menu-btn {background-color:white;
